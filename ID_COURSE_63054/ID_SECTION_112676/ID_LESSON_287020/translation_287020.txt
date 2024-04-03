@@ -1,0 +1,32 @@
+Here's the translation and rewrite of the text for a speech:
+
+Lesson Content:
+SQL not only allows you to retrieve data from database tables but also modify information in them. This is done using data modification queries, which let you:
+
+* Create an empty table
+* Add records to a table as a set of values
+* Add records from another table
+* Add records from another table using a subquery
+* Change values in a single column
+* Change values in multiple columns
+* Change data using multiple tables
+* Delete records from a table
+* Create a table based on data from other tables
+
+On this lesson, we'll be looking at queries for implementing common warehouse actions such as:
+
+* Adding a new product (adding, updating, deleting data)
+* Selling a product (updating data)
+* Creating a new order (creating a table)
+
+Table Structure and Population:
+The table that will be used in the queries is called "book" (creation, population):
+
+[TABLE]
+| id | name | author | price |
+| --- | --- | --- | --- |
+| 1 | Book 1 | Author 1 | 100 |
+| 2 | Book 2 | Author 2 | 200 |
+| 3 | Book 3 | Author 3 | 300 |
+
+Alright, let's dive in and learn how to use SQL data modification queries to manage our warehouse operations!

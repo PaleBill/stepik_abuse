@@ -1,0 +1,13 @@
+Here's the translation and rewrite of the text for a speech:
+
+Lesson Content:
+With SQL queries, you can select and process data not only from one table, but also from several related tables. In this lesson, we'll cover ways to connect tables, including:
+
+* The relationship between "one-to-many" tables
+* The relationship between "many-to-many" tables
+* Creating a table with foreign keys
+* Actions when deleting a record from the main table
+* Populating a table with foreign keys
+* Adding data to a table with foreign keys
+
+Let's dive into the world of SQL and learn how to connect tables with ease. By the end of this lesson, you'll be a pro at creating and managing tables with foreign keys, and understanding the relationships between them. So, whether you're a beginner just starting out or an experienced developer looking to brush up on your skills, this lesson is for you. Let's get started!

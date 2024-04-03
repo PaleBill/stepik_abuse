@@ -1,0 +1,21 @@
+Glossary
+This lesson is not a tutorial; it's just additional information that can be used while taking the course. Here, you will find key terms and functions of SQL along with links to course steps where those words appear in both the theoretical and practical parts (i.e., you can apply them to solve a problem). Click on the letter that the key word or function begins with in the list, and you will find links to corresponding steps.
+
+A: [Click here](#) to learn about the SQL term or function that starts with the letter A.
+B: [Click here](#) to learn about the SQL term or function that starts with the letter B.
+C: [Click here](#) to learn about the SQL term or function that starts with the letter C.
+D: [Click here](#) to learn about the SQL term or function that starts with the letter D.
+F: [Click here](#) to learn about the SQL term or function that starts with the letter F.
+G: [Click here](#) to learn about the SQL term or function that starts with the letter G.
+H: [Click here](#) to learn about the SQL term or function that starts with the letter H.
+I: [Click here](#) to learn about the SQL term or function that starts with the letter I.
+L: [Click here](#) to learn about the SQL term or function that starts with the letter L.
+M: [Click here](#) to learn about the SQL term or function that starts with the letter M.
+N: [Click here](#) to learn about the SQL term or function that starts with the letter N.
+O: [Click here](#) to learn about the SQL term or function that starts with the letter O.
+P: [Click here](#) to learn about the SQL term or function that starts with the letter P.
+R: [Click here](#) to learn about the SQL term or function that starts with the letter R.
+S: [Click here](#) to learn about the SQL term or function that starts with the letter S.
+U: [Click here](#) to learn about the SQL term or function that starts with the letter U.
+V: [Click here](#) to learn about the SQL term or function that starts with the letter V.
+W: [Click here](#) to

@@ -1,0 +1,22 @@
+Here's the translation and rewrite of the text for a speech:
+
+Lesson Overview
+In this lesson, we'll be using correction requests for the "Testing" database to implement the process of preparing questions for testing and processing a student's attempt results. This includes:
+
+* Adding a new attempt for a specific student and subject
+* Generating test questions for this attempt
+* Calculating the results of the test
+* Deleting outdated attempts
+
+The table structure and their content will be the same as the first step in the previous lesson.
+
+Make it more engaging:
+
+Are you ready to become a pro at implementing testing processes? In this lesson, we'll dive into the world of correction requests for the "Testing" database. We'll show you how to prepare questions for testing and process student attempt results, step by step. Here's what you can expect:
+
+* We'll add a new attempt for a specific student and subject, ensuring that only relevant information is included.
+* We'll generate test questions for that attempt, making sure they are tailored to the subject and student.
+* We'll calculate the results of the test, giving you a clear understanding of each student's performance.
+* And, we'll delete any outdated attempts, keeping the database organized and up-to-date.
+
+And, don't worry if you're new to the table structure and their content. We'll be using the same format as the first step in the previous lesson, so you'll be familiar with the setup.

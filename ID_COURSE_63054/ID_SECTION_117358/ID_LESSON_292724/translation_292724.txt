@@ -1,0 +1,38 @@
+Here's the translation and rewrite of the text for a speech:
+
+Topic Area
+-------------
+
+A university is made up of a variety of faculties (schools). Students apply to educational programs based on the results of the Unified State Exam (USE). Each educational program is associated with a specific faculty and has certain required subjects, minimum scores, and a set number of spots available.
+
+Students submit applications listing their chosen educational programs, along with their achievements, such as school medals or GTO badges. Extra points are awarded for each achievement. Students must also submit their USE scores. To be eligible for a program, students must have completed the required subjects with a score that meets or exceeds the minimum for that subject.
+
+Students are admitted based on the sum of their subject scores and achievement points, with the highest-scoring students filling the available spots.
+
+Here are some potential requests for the topic area:
+
+* List the students who have applied to a specific educational program.
+* List the educational programs that require a specific subject for admission.
+* Provide statistical information on each subject in the USE.
+* List the educational programs with minimum scores for a subject that exceed a given value.
+* List the educational programs with the largest number of available spots.
+* Calculate the number of extra points each student has earned.
+* Calculate the competition ratio for each educational program.
+* List the educational programs that require two specific subjects for admission.
+* Calculate the total number of points each student has earned for each educational program.
+* List the students who do not meet the requirements for a specific educational program.
+
+Database Structure
+------------------
+
+The university's database consists of several tables that store information about the faculties, subjects, educational programs, students, achievements, and scores. The tables are linked by foreign keys, with the "ON DELETE CASCADE" option enabled.
+
+The `department` table includes information about each faculty, such as its name and code.
+
+The `subject` table includes information about each subject, such as its name and code.
+
+The `program` table includes information about each educational program, including the available spots for the program.
+
+The `enrollee` table includes information about each student, such as their name and birthdate.
+
+The `achievement` table includes information about each achievement, such

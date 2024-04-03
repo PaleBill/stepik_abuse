@@ -1,0 +1,15 @@
+Here's the translation and rewrite of the text for a speech:
+
+"Lesson Content:
+SQL allows you to create nested queries. A nested query (also known as a subquery or inner query) is a query within another query in SQL.
+
+Nested queries are used for selecting data that will be used in the condition for selecting records in the main query. They are used for:
+
+* Comparing an expression with the result of a nested query
+* Determining whether an expression is included in the results of a nested query
+* Checking if a query selects certain rows
+
+A nested query consists of the following components:
+
+* The keyword SELECT, followed by the names of columns or expressions (usually, the list contains one element)
+* The keyword FROM and the name of the table from which the data is selected

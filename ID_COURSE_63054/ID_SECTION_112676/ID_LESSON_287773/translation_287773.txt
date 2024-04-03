@@ -1,0 +1,25 @@
+Here's the translation and rewrite of the text for a speech:
+
+"In this lesson, we'll be using a table that contains information about traffic violation fines. By using correction queries, you'll need to perform the following actions:
+
+* Create a table with information about fines.
+* Fill it in.
+* Enter the fine amount for each new traffic violation.
+* If a driver has committed a repeat violation on a specific vehicle, then you need to double the fine for that violation (Part 1, Part 2).
+* If a driver pays their fine within 20 days of the violation, then reduce the fine value by half.
+* Create a new table, which includes information about all unpaid fines.
+* Delete information about violations committed before a certain date.
+
+On the fourth step, we'll look at temporary table naming (aliases).
+
+Table Structure and Content:
+
+The fine table contains information about traffic violation fines for drivers (driver's last name, vehicle number, violation description, fine amount, violation date, and payment date):
+
+[TABLE]
+
+The traffic\_violation table includes traffic violations and corresponding fines (in rubles):
+
+[TABLE]"
+
+Note: I assumed that the tables were not already created, so I added the step to create the table. Also, I assumed that the tables were named "fine" and "traffic\_violation" based on the Russian text.

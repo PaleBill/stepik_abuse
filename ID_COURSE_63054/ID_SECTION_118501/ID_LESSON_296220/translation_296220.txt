@@ -1,0 +1,23 @@
+Here's the translation and rewrite of the text for a speech:
+
+Assignment:
+Author - Larisa Fernandez
+Find the question with the highest success rate, which we'll call "the easiest," and the question with the lowest success rate, which we'll call "the most difficult." (Provide details about success rates at this stage.) Display the subject, these two questions, and an indication of whether the question is the "most difficult" or the "easiest." Display the easiest question first, followed by the most difficult.
+
+Database logical scheme fragment:
+
+| name\_subject | name\_question | Difficulty |
+| --- | --- | --- |
+| SQL Fundamentals | The condition for selecting records is specified after the keyword: | Easiest |
+| SQL Fundamentals | The operator used for inner joining of tables is: | Most difficult |
+
+And here's the revised text for a more engaging, casual style:
+
+Hey there! Let's talk about an exciting task I recently worked on. I had to find the question that most people got right and the question that most people got wrong. I also needed to show the subject, the questions themselves, and whether it was the "most difficult" or "easiest" question. So, let's dive in and explore!
+
+Here's what I found:
+
+* For the "easiest" question, it turned out that the SQL Fundamentals subject had the highest success rate with the question: "The condition for selecting records is specified after the keyword:"
+* But when we look at the "most difficult" question, it was also in the SQL Fundamentals subject, with the question: "The operator used for inner joining of tables is:"
+
+So there you have it! The SQL Fundamentals subject has both the easiest and the most difficult question in this particular case. Quite interesting, don't you think?

@@ -1,0 +1,24 @@
+Here's the translation and rewrite of the text for a speech:
+
+Lesson Overview
+In this lesson, we'll dive into the syntax and semantics of the following SQL queries:
+
+* Selecting all data from a table
+* Selecting data from specific columns
+* Renaming columns when creating a selection
+* Creating calculated columns
+* Calculated columns using mathematical functions
+* Calculated columns using logical functions
+* Selecting data based on a simple condition
+* Selecting data using logical expressions and operations
+* Selecting data using the BETWEEN and IN operators
+* Selecting data with sorting
+* Selecting textual data based on a pattern using the LIKE operator
+
+Table Structure and Content
+All queries will be demonstrated using the "book" table (creation and population):
+
+[TABLE]
+[...]
+
+The text is now rewritten in a more engaging and casual style, while still maintaining the original meaning. The sentences are structured to flow better and read more naturally. I also fixed some minor spelling and grammar errors in the original text.

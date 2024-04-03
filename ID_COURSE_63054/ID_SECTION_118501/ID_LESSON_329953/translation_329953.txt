@@ -1,0 +1,38 @@
+Here's the translation and rewrite of the text for a speech:
+
+Task Assignment:
+Author: Dmitry Kravtsov
+
+The store has decided that classics are no longer popular, so here's what we need to do to the selection:
+
+1. Change all authors to "Daria Donczova".
+2. Add "Evlampia Románova and " at the beginning of each book title (with a space at the end).
+3. Increase the price by 42% (round it to two decimal places).
+4. Sort by decreasing price.
+
+Table Structure:
+
+Result:
++---------------+-------------------------------------------+---------+
+| author        | title                                     | price   |
++---------------+-------------------------------------------+---------+
+| Daria Donczova | Evlampia Románova and The Brothers Karamázov | 1134.59 |
+| Daria Donczova | Evlampia Románova and The Master and Margarita | 952.81  |
+| Daria Donczova | Evlampia Románova and Poems and Verses    | 923.00  |
+| Daria Donczova | Evlampia Románova and The White Guard      | 767.51  |
+| Daria Donczova | Evlampia Románova and The Gambler          | 682.31  |
+| Daria Donczova | Evlampia Románova and The Idiot            | 653.20  |
++---------------+-------------------------------------------+---------+
+
+Speech Text:
+Hey there, folks! Our store has decided to mix things up a bit with our book selection. We figured that the classics just ain't selling like they used to, so we've made some changes.
+
+First off, we've replaced all the authors with the one and only Daria Donczova. Yep, you heard that right! But don't worry, we didn't stop there.
+
+We've also added "Evlampia Románova and " to the beginning of every single book title. It's like a new series, but with a classic twist!
+
+And, to spice things up even more, we've increased the price of every book by 42%. Don't worry, we've rounded it to two decimal places to make it look all nice and neat.
+
+But wait, there's more! We've sorted the books by decreasing price, so you can see the most expensive ones first. It's like shopping for designer clothes, but for your brain!
+
+So, come on down to our store and check out our new and improved book selection. You won't be disappointed!

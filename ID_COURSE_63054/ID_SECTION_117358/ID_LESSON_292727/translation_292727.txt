@@ -1,0 +1,47 @@
+Topic:
+We have an online testing system at the university for several subjects. Each subject has a certain number of questions, and there are multiple-choice options for each question with only one correct answer.
+
+Students register in the system, providing their name, surname, and patronymic. Once registered, they can take the test for one or multiple subjects. Each student has multiple attempts to take the test (which must be tracked by date). A random set of questions is selected for each student based on the subject, and an individualized test is generated. Students answer the questions by selecting one of the provided options.
+
+After completing the test, the result is calculated and saved (as a percentage).
+
+Here are the queries for the topic:
+
+* Display the students who took a specific subject
+* Display the number of attempts and the average result for each subject
+* Display the student(s) who achieved the highest score during the testing
+* If a student made multiple attempts on the same subject, show the difference in days between the first and last attempt
+* Display the number of students who took the test for each subject
+* Randomly select 3 questions from a specific subject
+* Display the questions that a specific student answered in a specific attempt, including their answer and whether it was correct or not
+* Calculate the results of the testing attempts for all students
+* For each question, display the percentage of successful attempts and the total number of answers
+
+Database Conceptual Schema
+
+Database Logical Schema
+
+Table Structures and Data
+
+The `subject` table:
+
+| id | name |
+| --- | --- |
+| 1 | Math |
+| 2 | Physics |
+| 3 | Chemistry |
+
+The `student` table:
+
+| id | name | surname | patronymic |
+| --- | --- | --- | --- |
+| 1 | Ivan | Ivanov | Ivanovich |
+| 2 | Anna | Sidorova | Anastasiyevna |
+| 3 | Maxim | Petrov | Maximovich |
+
+The `attempt` table:
+
+| id\_student | id\_subject | attempt\_date | result |
+| --- | --- | --- | --- |
+| 1 | 1 | 2022-01-01 | 80 |
+| 

@@ -1,0 +1,12 @@
+Here's the translation and rewrite of the text for a speech:
+
+Lesson Overview
+In this lesson, we'll use data correction requests to create a list of recommended applicants for admission to the university database "Applicant." Here's what you can expect:
+
+* We'll build a table that summarizes applicants' total EGE subject scores based on their submitted applications.
+* We'll remove any applicants who didn't meet the minimum score required for the necessary subject for the educational program.
+* Additional points will be added to applicants who have a medal or GTO badge.
+* Applicants will be sorted based on their scores for each educational program.
+* Finally, we'll generate a list of recommended applicants for admission (we'll insert a column for numbering, apply numbering to students according to their educational program, and select applicants with the highest scores based on the admission plan).
+
+The lesson will be engaging, easy to follow, and delivered in a casual style.

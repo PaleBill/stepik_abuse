@@ -1,0 +1,23 @@
+Here's the translation and rewrite of the text for a speech:
+
+Lesson Content
+In this lesson, you'll need to implement queries to retrieve information from a table that contains information about employee business trips. Here's what you'll be doing:
+
+* Display the information about business trips of employees whose last name ends in the letter "a."
+* Display the last names, first names, and patronymics of employees who were on a business trip to Moscow, sorted alphabetically.
+* For each city, calculate how many times employees have traveled there.
+* Identify the two cities where employees have traveled the most frequently.
+* Display information about the duration of employee business trips.
+* Display information about the shortest business trips by time.
+* Display information about business trips that start and end in the same month.
+* Display the number of the month and the number of business trips, the first day of which fell on that month.
+* Display the total amount of daily allowances for employee business trips.
+* Display the last name with initials and the total amount of daily allowances received for all business trips for employees who have been on business trips more than three times.
+
+Table Structure and Content
+The table "trip" contains information about employee business trips, including the employee's last name, the city they visited, the daily allowance, and the dates of the first and last day of the business trip:
+
+[TABLE]
+
+Explanation
+The DATE type allows you to describe the date in the format YYYY-MM-DD, for example, 2020-02-02. When inserting data into the table using INSERT INTO ... VALUES, the date value is enclosed in quotes.

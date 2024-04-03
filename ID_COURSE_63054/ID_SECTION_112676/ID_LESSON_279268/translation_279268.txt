@@ -1,0 +1,14 @@
+Hello and welcome to the course!
+
+Our course is a simulator, consisting only of practical tasks. Before you begin, be sure to read the information from this step.
+Recommended algorithm for successfully completing each step of the course:
+
+1. Read the text material, it's relatively short and always contains all the necessary information for completing the practical task.
+2. If there are examples in the theoretical text, copy and paste them into the code window, run the query without sending it for checking (click the black "Run Code" button). Analyze the result, if it is unexpected or unclear, return to the theory and read it again.
+3. Now you can begin the practical task. First, carefully read the instructions, understand exactly what needs to be done (there is no point in writing an SQL query otherwise);
+4. If the task is clear, you can proceed to implementing the request, there are two options - either you will write the query in SQL in full, or you will search for a similar example, copy it and start correcting it (most likely, after going through a dozen steps, the option with copying will become unnecessary).
+5. Submit the query for checking. The result may be one of two - either the query is written correctly, and it passes - you can move on to the next step. Or the query is not accepted, there is an error in it, but "who does not make mistakes, does nothing..." Mistakes are an essential and useful element in the learning process;
+6. Begin debugging (correcting) the query, but if you manage to do it yourself, it means that you have really mastered the material of the step, you can move on to the next one. If you cannot correct the errors, do not panic, read and write comments, browse the internet - just return to step 1 or 2 of this algorithm.
+7. If the theory and examples do not help, use the cheat sheet of common mistakes and ways to correct them (listed below), approximately half of the errors are related to the points described in it, and by getting into the habit of checking your query each time, you will save yourself many hours and nerves (tested on experience).
+8. When you write the correct query, you can publish it in the solutions, look at the solutions of other students and discuss yours.
+9. In comments, you can give hints or share

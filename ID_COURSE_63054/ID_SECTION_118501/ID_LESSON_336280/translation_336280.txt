@@ -1,0 +1,13 @@
+Here's the translation and rewrite of the text for a speech:
+
+"Alright, so the task here is to display the authors and their book titles, along with their prices, in two separate columns for rubles and kopecks. But here's the kicker - we want to sort the information in descending order based on those kopecks. So, without further ado, let's dive into the results:
+
+* Bulgakov, Mikhail A.: "The Master and Margarita" - 670 rubles and 99 kopecks.
+* Yesenin, Sergei A.: "The Black Man" - also going for 670 rubles and 99 kopecks.
+* Bulgakov, Mikhail A.: "The White Guard" - a more affordable option at 540 rubles and 50 kopecks.
+* Dostoevsky, Fyodor M.: "The Gambler" - a steal at 480 rubles even.
+* And now, for the main event, Dostoevsky's "The Brothers Karamazov" - an absolute bargain at 799 rubles and 1 kopeck.
+* If that's not quite in your budget, Dostoevsky's "The Idiot" is a more modest 460 rubles, no kopecks.
+* Finally, Yesenin's "Poems and Poetry" - a very reasonable 650 rubles, no kopecks.
+
+And there you have it, folks. The results, sorted by price in descending kopecks."

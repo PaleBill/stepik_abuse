@@ -1,0 +1,43 @@
+Here's the translation and rewrite of the text for a speech:
+
+Lesson Topic:
+SQL requests can involve multiple database tables. It's necessary to specify how these tables are connected. The JOIN operation is designed to extract data from two tables and include those data in a single resulting set. If more than two tables need to be joined, the JOIN operation is applied several times (sequentially).
+
+Join operators are part of the FROM section of SQL queries.
+
+In this lesson, we'll create queries for:
+
+* Joining two tables using an Inner Join
+* Joining two tables with Left Join and Right Join
+* Joining two tables using a Cross Join
+* Selecting data from multiple tables
+* Selecting and grouping data from multiple tables
+* Selecting data using nested queries
+* Nested queries in join operators
+* Using join operators with USING
+
+Database Structure and Content:
+
+Conceptual Database Schema:
+
+Logical Database Schema:
+
+Table: author (creation, filling):
+
+| id\_author | author\_name |
+| --- | --- |
+| int | varchar |
+
+Table: genre (creation, filling, used as examples):
+
+| id\_genre | genre\_name |
+| --- | --- |
+| int | varchar |
+
+Table: book (creation, filling):
+
+| id\_book | book\_name | id\_author | id\_genre |
+| --- | --- | --- | --- |
+| int | varchar | int | int |
+
+Let's dive into the exciting world of SQL joins and learn how to extract and manipulate data from multiple tables in a more engaging, casual style!

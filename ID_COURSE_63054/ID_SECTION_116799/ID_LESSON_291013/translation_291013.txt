@@ -1,0 +1,40 @@
+Here's the translation and rewrite of the text for a speech:
+
+Lesson Overview
+================
+
+We're going to tackle the problem of adding books delivered to the warehouse by a supplier to our database using correction requests. The book database consists of three tables: genre, author, and book. Information about the delivery is stored in the supply table. We need to perform different actions for different types of books in the shipment:
+
+* For books that are already on the shelf at the same price as the delivery, we'll increase their quantity by the value specified in the delivery.
+* For books that are already on the shelf, but the price in the delivery is different, we'll increase the quantity and calculate a new price, taking into account the number of copies already available and the new copies.
+* For books that are not on the shelf, we'll check if the author is in the database. If not, we'll add the author's name, and then add a new book record, leaving the genre field blank.
+* We'll also need to assign a genre to new books.
+
+Another common warehouse task is removing outdated information. With correction requests, we can delete data on genres, authors, and books based on the properties of the foreign keys specified in the tables when they were created:
+
+* Cascading deletion of related table records
+* Deleting records from the main table while keeping records in the dependent table
+* Deleting records using information from related tables
+
+Database Structure and Content
+------------------------------
+
+Here's the conceptual and logical schema for our database:
+
+[INSERT DIAGRAMS HERE]
+
+Now let's take a closer look at our tables:
+
+**author Table:**
+[TABLE]
+
+**genre Table:**
+[TABLE]
+
+**book Table:**
+[TABLE]
+
+**supply Table:**
+[TABLE]
+
+We've got a lot of exciting work ahead of us, so let's get started!

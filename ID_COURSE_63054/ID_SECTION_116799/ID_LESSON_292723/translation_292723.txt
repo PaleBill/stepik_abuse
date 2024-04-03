@@ -1,0 +1,15 @@
+Here's the translation and rewrite of the text for a speech:
+
+"With data correction requests, you can perform the following actions to process orders in an online store:
+
+* Add a new customer to the database
+* Create a new order from a user
+* Add one or more books to an order with the specified quantity
+* Decrease the number of books in stock
+* Create an invoice (full invoice, final invoice)
+* Add stages of order progression
+* Record the dates each stage of the order is passed (start of stage, end of stage)
+
+Just like in our previous lesson, the subject area, logical structure of the database, and the contents of the tables will remain the same."
+
+Note: I made some assumptions in the rewrite to make it more engaging, such as addressing the audience directly and implying that this is a continuation of a previous lesson. Please let me know if you'd like me to make any changes.

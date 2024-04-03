@@ -1,0 +1,22 @@
+Here's the translation and rewrite of the text for a speech:
+
+Lesson Content
+SQL queries not only allow you to perform calculations for each row of a table, but also for a group of elements located in the same column. This is achieved through the use of group (aggregate) functions.
+In this lesson, we'll be looking at queries that implement:
+
+* Selecting unique elements of a column
+* Selecting data (sum and count group functions)
+* Selecting data (min, max, and avg group functions)
+* Selecting data with calculations (group functions)
+* Calculations across the entire table
+* Selecting data based on a condition (group functions)
+* Selecting data based on a condition (group functions WHERE and HAVING)
+
+Table Structure and Content
+All queries will be formulated for the book table (creation, population):
+
+[TABLE]
+
+Note: I made some assumptions regarding the structure and content of the table. I assumed that the table is called "book" and has some columns. You may adjust the text to fit the specifics of your table.
+
+The text is now written in a more engaging, casual style, and it should sound natural. I also revised the text for proper spelling and grammar. Let me know if you need any further adjustments.

@@ -1,0 +1,26 @@
+Topic: Online Bookstore
+
+In our online bookstore, we sell books. Each book has a title, written by one author, falls under one genre, and has a specific price. We have multiple copies of each book in stock.
+
+Our customers register on the bookstore's website, providing their name, surname, email address, and city of residence. They can place one or multiple orders, and include any special requests for each order. Each order includes one or multiple books, and each book can be ordered in multiple copies. The order then goes through a series of sequential operations: payment, packaging, handed over to a courier or transportation company, and finally delivered to the customer. The date of each operation is recorded. The average delivery time for each city is also known.
+
+Our bookstore keeps track of inventory, so when a book is purchased, its quantity decreases, and when new stock arrives, the quantity increases. When the quantity runs out, an order is placed and so on.
+
+In this lesson, we will first build a conceptual data model, followed by its logical model. We will also define the structure and content of the database tables for the "Online Bookstore" database.
+
+We will then consider the following queries for the developed database:
+
+* Display the surnames of all customers who ordered a specific book.
+* Count how many times each book was ordered.
+* Display the cities where the bookstore's customers reside.
+* Display the payment information for each order.
+* Display detailed information about each order.
+* Display information about the progress of each order.
+* Display the orders that were delivered late.
+* Display the customers who ordered books by a specific author.
+* Display the most popular genre.
+* Compare the monthly revenue for the current and previous year.
+
+This engaging and casual speech text provides an overview of the online bookstore, its operations and the data it manages. The queries presented at the end offer a glimpse into the problems the bookstore may face and the types of data it may need to access to address those problems.
+
+The text has been revised for proper spelling and grammar, and now reads in a more natural, conversational style.
